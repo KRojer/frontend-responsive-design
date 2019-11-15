@@ -1,7 +1,8 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-[Beschrijf hier wat ij gaat doen]
+[Een online heren schoenen winkel, bijvoorbeeld net als Adidas of Nike.
+Ik ben nog even aan het denken over wat ik precies ga kiezen i.v.m. de huistijl.]
 
 ## Criteria
 ### 1.) De HTML is gestructureerd en semantisch opgemaakt
